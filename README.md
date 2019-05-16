@@ -1,4 +1,4 @@
-# coffeescript & webpack demo
+# coffeescript & webpack (starter)
 
 ## install
 
